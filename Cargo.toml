@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-ab-boot-slot"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS ab-boot-slot component - boot"
+
+[lib]
+name = "ab_boot_slot"
+path = "src/lib.rs"
