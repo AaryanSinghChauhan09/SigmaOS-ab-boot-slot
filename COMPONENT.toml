@@ -3,7 +3,7 @@ name = "SigmaOS-ab-boot-slot"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ab-boot-slot component"
+description = "ab boot slot component"
 upstream = []
 
 [contract]
